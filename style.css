@@ -25,13 +25,14 @@ body {
   height: 72px;
 }
 
-.cabecalho-menu {
+.cabecalho-menu {"">
+  </section>
   display: flex;
   gap: 32px;
 }
 
 .cabecalho-menu-item {
-  font-family: 'Sarala', sans-serif;
+  font-family: 'montserrat', Thin 100;
   color: #000000;
   font-weight: 400;
   font-size: 18px
