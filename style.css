@@ -31,14 +31,14 @@ body {
 
 .cabecalho-menu-item {
   font-family: 'Sarala', sans-serif;
-  color: #0a0217;
+  color: #000000;
   font-weight: 400;
   font-size: 18px
 }
 
 .conteudo {
   margin-bottom: 48px;
-  border-top: 0.4px solid #118fe3;
+  border-top: 0.4px solid #070808;
 }
 
 .conteudo-principal {
@@ -58,18 +58,18 @@ body {
   font-family: 'Righteous', cursive;
   font-weight: 400;
   font-size: 64px;
-  color: #FFF2E7;
+  color: #110f0d;
 }
 
 .conteudo-principal-escrito-subtitulo {
   font-family: 'Sarala', sans-serif;
   font-weight: 400;
   font-size: 24px;
-  color: #ECD6C4;
+  color: #131110;
 }
 
 .conteudo-principal-escrito-botao {
-  background-color: #ECD6C4;
+  background-color: #020201;
   width: 180px;
   height: 60px;
   border: none;
@@ -82,7 +82,7 @@ body {
 }
 
 .conteudo-principal-escrito-botao:hover {
-  background-color: rgba(236, 214, 196, 0.53);
+  background-color: rgba(3, 0, 0, 0.486);
 }
 
 .conteudo-principal-imagem {
@@ -111,7 +111,7 @@ body {
   font-family: 'Sarala', sans-serif;
   font-weight: 300;
   font-size: 18px;
-  color: #ECD6C4;
+  color: #030201;
 }
 
 .rodape {
